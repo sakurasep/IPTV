@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 综合
+https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2 财经
+https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV-3 综艺
+https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV-4 中文国际
+https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5 体育
+https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV-5+ 体育赛事
+https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV-6 电影
+https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV-7 国防军事
+https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV-8 电视剧
+https://live.goodiptv.club/api/sxg.php?id=CCTV-8H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV-9 纪录
+https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV-10 科教
+https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV-11 戏曲
+https://live.goodiptv.club/api/sxg.php?id=CCTV-11-H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV-12 社会与法
+https://live.goodiptv.club/api/sxg.php?id=CCTV-12H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV-13 新闻
+https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV-14 少儿
+https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV-15 音乐
+https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV-16 奥林匹克
+https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV-16 奥林匹克 4K
+https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV-17 农业农村
+https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV-4K 超高清
+https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
+https://live.goodiptv.club/api/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+https://live.goodiptv.club/api/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
+https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
+https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png",兵团卫视
+https://live.goodiptv.club/api/sxg.php?id=btws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
+https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
+https://live.goodiptv.club/api/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png",甘肃卫视
+https://live.goodiptv.club/api/sxg.php?id=gsws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png",广西卫视
+https://live.goodiptv.club/api/sxg.php?id=gxws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
+https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
+https://live.goodiptv.club/api/sxg.php?id=hnws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png",河南卫视
+https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
+https://live.goodiptv.club/api/sxg.php?id=hljwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
+https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
+https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png",吉林卫视
+https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
+https://live.goodiptv.club/api/sxg.php?id=jswsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
+https://live.goodiptv.club/api/sxg.php?id=jxwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png",康巴卫视
+https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
+https://live.goodiptv.club/api/sxg.php?id=lnwsHDH264_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png",内蒙古卫视
+https://live.goodiptv.club/api/sxg.php?id=nmgws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png",山东教育卫视
+https://live.goodiptv.club/api/sxg.php?id=sdjy_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视
+https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png",山西卫视
+https://live.goodiptv.club/api/sxg.php?id=sxws42_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png",陕西卫视
+https://live.goodiptv.club/api/sxg.php?id=sxws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
+https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
+https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
+https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png",西藏卫视
+https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png",云南卫视
+https://live.goodiptv.club/api/sxg.php?id=ynws_4000
+#EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
+https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
