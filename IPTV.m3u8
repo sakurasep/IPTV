@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1 综合
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV-1
 https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2 财经
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV-2
 https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV-3 综艺
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV-3
 https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV-4 中文国际
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV-4
 https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5 体育
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV-5
 https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV-5+ 体育赛事
+#EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV-5+
 https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV-6 电影
 https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
